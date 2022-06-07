@@ -1,3 +1,3 @@
 # githubactiontest
 Testing github action
-ex2
+ex3
